@@ -1,0 +1,54 @@
+{
+  "validUser": {
+    "idType": "MyKad/MyPR/MyKAS",
+    "idNumber": "960607065985",
+    "password": "Passw0rd"
+  },
+  "generalInformation": {
+    "namaSuratCara": "Form of Transfer of Securites",
+    "tarikhSuratCara": "09/06/2026"
+  },
+  "firstPartyInformation": {
+    "header": "Maklumat Pihak Pertama"
+  },
+  "secondPartyInformation": {
+    "header": "Maklumat Pihak Kedua",
+    "spName": "Mohamad Nabil",
+    "spStatus": "Warganegara",
+    "spICNo": "960607065985",
+    "spTelePhoneNo": "0123123454",
+    "spEmail": "testing@gmail.com",
+    "spAddress": "Setia Walk Mall",
+    "spPost": "57100"
+  },
+  "shareInformation": {
+    "bilanganSahamDiterbitkan": "4500",
+    "bilanganSahamDipindahMilik": "2000",
+    "harga_Balasan": "Ringgit Malaysia",
+    "jumlahDalamRinggitMalaysia": "1345000",
+    "statusSyarikat": "Baru ditubuhkan (Tidak Melebihi 18 Bulan)",
+    "tarikhDitubuhkan": "02/01/2026",
+    "sebabTransaksi": "Jualan"
+  },
+  "companyDetails": {
+    "namaSyarikat": "NextGen Technologies Sdn. Bhd.",
+    "lamaNomborPendaftaranSyarikat": "200501037063",
+    "baruNomborPendaftaranSyarikat": "10960952",
+    "aktivitiUtama": "Teknologi",
+    "alamatSyarikat": "Testing Address",
+    "poskod": "57100"
+  },
+  "exemptionTiada": {
+    "permohonanPeremitanPengecualian": "Tiada"
+  },
+  "exemptionAda": {
+    "permohonanPeremitanPengecualian": "Ada",
+    "jenisPeremitanPengecualian": "DS 02 - Peremitan #2"
+  },
+  "lampiran": {
+    "filePath": "C:/Users/Admin/Downloads/StampCertificate_9992628553865560.pdf"
+  },
+  "declaration": {
+    "dutiAkanDibayarOleh": "Pihak Pertama "
+  }
+}
